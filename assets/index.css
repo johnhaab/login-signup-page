@@ -215,7 +215,7 @@ input[type="checkbox"]::after {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 413px;
+    width: 410px;
     padding: 10px;
     background-color: white;
     border: 2px solid hsl(120, 4%, 10%, 60%);
